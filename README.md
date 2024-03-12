@@ -25,7 +25,7 @@ CalypsoRoom Editorial Team. (2024, January). How do vinyl records work? step by 
 Disc Wizards. (n.d.). The history and evolution of The compact disc (CD). https://www.discwizards.com/history-of-the-cd.htm <br><br>
 Echo. (2019, December 26). Baby driver (was he slow music scene)english [Video]. YouTube. https://www.youtube.com/watch?v=Dtb_8Y5bHww<br><br>
 Electrohome Blog. (n.d.). The history of the record player. https://blog.electrohome.com/history-record-player/ <br><br>
-Eye on Tech. (2021, February 10). NOR vs. NAND Flash Memory [Video]. YouTube. https://www.youtube.com/watch?v=jAQiMWmSlIo<br>
+Eye on Tech. (2021, February 10). NOR vs. NAND Flash Memory [Video]. YouTube. https://www.youtube.com/watch?v=jAQiMWmSlIo<br><br>
 Fluance Audio. (2022, February 2). What is a Phono preamp and what should you look for in one? Which is better: internal or external? [Video]. YouTube. https://www.youtube.com/watch?v=Zjvt_jrxub4<br><br>
 Gadgetronicx. (2021, August 6). Amplifier basics, Types & Characteristics | Basics of Electronics [Video]. YouTube. https://www.youtube.com/watch?v=qKlEuwQTVvg<br><br>
 GlevoTec. (2016, January 5). How do cassette tapes work? | Analog audio cassette [Video]. YouTube. https://www.youtube.com/watch?v=-v4tNawTb90<br><br>
