@@ -14,6 +14,7 @@ Aalexandraaoliver. (2023, October 7). HOW NAND flash memory works: A comprehensi
 AKIO TV. (2017, January 8). How does a CD work? (AKIO TV) [Video]. YouTube. https://www.youtube.com/watch?v=c_G3WH65rrk<br><br>
 Amazon Web Services. (2021, July 15). What is Cloud Computing? | Amazon Web Services [Video]. YouTube. https://www.youtube.com/watch?v=mxT233EdY5c<br><br>
 Andre On The Air. (2021, December 5). Spotify Commercial 2021 [Video]. YouTube. https://www.youtube.com/watch?v=aNB67e0NQnE<br><br>
+Applied Science. (2015, June 15). Electron microscope slow-motion video of vinyl LP [Video]. YouTube. https://www.youtube.com/watch?v=GuCdsyCWmt8<br><br>
 BasuMallick, C. (2023, February 22). What is flash memory? types, working, benefits and challenges. Spiceworks. https://www.spiceworks.com/tech/hardware/articles/what-is-flash-memory/<br><br>
 BBC. (2019, March 12). History of the CD: 40 Years of the compact disc. BBC Newsround. https://www.bbc.co.uk/newsround/47441962<br><br>
 BBC Earth Science. (2016, September 15). How Do Vinyl Records Work? | Earth Science [Video]. YouTube. https://www.youtube.com/watch?v=bw4YmbAKocM<br><br>
